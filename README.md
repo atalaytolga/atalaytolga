@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Tolga&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computational%20Statistical%20Physics&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Tolga&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computational%20Statistical%20Biological%20Physics&descAlignY=51&descAlign=62)
 
 
 <div align="center">
